@@ -2,7 +2,7 @@
 
 # Requirements 
 
-_To work with these starter pack you need:
+_ To work with these starter pack you need:
 
 Koala less/sass compiler http://koala-app.com/
 
